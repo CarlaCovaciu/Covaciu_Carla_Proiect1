@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "Covaciu_Carla_Proiect1Context"
+    }
+  }
+}
